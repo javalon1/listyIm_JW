@@ -16,7 +16,7 @@ public class Zadanie {
             }
             stringImie.add(linia);
         }
-        System.out.println(stringImie);
+        System.out.println("LISTA IMION: ");
         for (String el: stringImie){
             System.out.println("Imie: " + el);
         }

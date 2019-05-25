@@ -45,7 +45,12 @@ public class App {
 //
 //
 //        }
+//        }
+//        Zadanie.zad1();
+
+            List<Integer> list = new ArrayList<>();
+            list.add(222);
         }
-        Zadanie.zad1();
-    }}
+    }
+}
 
